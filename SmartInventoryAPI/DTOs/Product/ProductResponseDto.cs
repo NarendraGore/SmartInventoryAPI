@@ -11,5 +11,7 @@
         public string CategoryName { get; set; }
 
         public string SupplierName { get; set; }
+
+        public int AvailableStock { get; set; }
     }
 }
